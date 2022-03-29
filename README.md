@@ -1,5 +1,7 @@
 # JWT API
 
+sff asp net core
+
 This example API shows how to implement JSON Web Token authentication and authorization with ASP.NET 6, built from scratch.
 
 ### Features
